@@ -1,5 +1,5 @@
-> "Imagination is more important than knowledge. Knowledge is limited, imagination embraces the entire world, stimulating progress, giving birth to evolution."
-> — *Albert Einstein*
+> "Looking to the future, the next big step will be for the very concept of the 'device' to fade away"
+> — *Sundar Pichai*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sm467d&show_icons=true&theme=radical&bg_color=0A0A0A&title_color=00D4FF&icon_color=8B5CF6&text_color=ffffff&border_color=39FF14)
 
